@@ -8,5 +8,5 @@ This research project explores the challenge of precise emoji prediction in Engl
 - Download all the files here and put it with the glove embedding file together in one folder
 - Name the folder as "Emoji"
 - Upload the folder to Google Driver and add a shortcut of the folder to "My Drive"
-- Run the CS 333 Final Project.ipynb file in Google Colab
+- Run the CS_333_Final_Project.ipynb file in Google Colab
 
